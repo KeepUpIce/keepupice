@@ -12,6 +12,6 @@
 
 [芳华绝代安全团队](https://www.ifhsec.com/)
 
-[翠鸟湖信息技术有限公司-玲珑安全团队](http://www.cuiniaohu.com/)
+[玲珑安全团队](http://www.cuiniaohu.com/)
 
 ![image](https://github.com/user-attachments/assets/772f55d6-0a80-4d6f-b0ce-61cddb6b9406)
