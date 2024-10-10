@@ -2,7 +2,6 @@
 
 致力于网络安全领域，目前在学习 Java 代码审计及 Springboot Web 开发。
 
-芳华绝代安全团队成员 | linglongsec成员
 
 ## 个人链接
 
