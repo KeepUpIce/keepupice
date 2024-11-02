@@ -11,11 +11,7 @@
 
 [Github博客: https://keepupice.github.io](https://keepupice.github.io/)
 
-## 友情链接
 
-[芳华绝代安全团队](https://www.ifhsec.com/)
-
-[玲珑安全团队](http://www.cuiniaohu.com/)
 
 ## Github Page
 
