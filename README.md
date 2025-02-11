@@ -1,8 +1,3 @@
-## 个人简介
-
-致力于网络安全领域，目前在学习 Java 代码审计及 Springboot Web 开发。
-
-
 ## 个人链接
 
 [CSDN_秋说](https://blog.csdn.net/2301_77485708)
@@ -10,8 +5,6 @@
 [博客园_秋说](https://www.cnblogs.com/qiushuo)
 
 [Github博客: https://keepupice.github.io](https://keepupice.github.io/)
-
-
 
 ## Github Page
 
